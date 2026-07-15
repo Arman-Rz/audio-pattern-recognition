@@ -25,7 +25,7 @@ The project follows a complete machine learning pipeline including audio preproc
 Dataset:  
 https://urbansounddataset.weebly.com/urbansound8k.html  
 
-The dataset is **not included** in this repository because of its size.  
+The dataset is **not included** in this repository because of its size. However, the notebooks download, extract and validate the dataset automatically.  
 
 ---
 
