@@ -129,14 +129,14 @@ Python 3.11+
 **Install:**  
 
 Clone the repository:  
-    ```bash
-    git clone https://github.com/Arman-Rz/audio-pattern-recognition.git
-    ``` 
+```bash
+git clone https://github.com/Arman-Rz/audio-pattern-recognition.git
+``` 
 
 Install dependencies:  
-    ```bash
-    pip install -r requirements.txt
-    ```
+```bash
+pip install -r requirements.txt
+```
 
 ---
 
